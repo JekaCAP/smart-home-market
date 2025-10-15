@@ -45,7 +45,7 @@
 - **Языки:** Java 21
 - **Фреймворки:** Spring Boot 3, Spring Cloud, Hibernate, Swagger/OpenAPI
 - **Интеграции:** Kafka, gRPC, REST
-- **Базы данных:** PostgreSQL, Flyway
+- **Базы данных:** PostgreSQL
 - **Тестирование:** JUnit, Mockito
 - **Инфраструктура:** Docker, GitHub Actions (CI/CD)
 
